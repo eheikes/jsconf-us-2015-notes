@@ -15,12 +15,14 @@ This talk was about writing CSS using JS. "This talk is about ideas, not code."
   * They have their own messiness, with weird behaviors/gotchas.
 * Define CSS as JS literals
   * Example:
+
       ```javascript
       '.nav': {
         color: 'blue',
         fontSize: '1.5em'
       }
       ```
+
   * Could have something like `toCSS()` to convert the JS object into a CSS string
 * JS addresses all the limitations of CSS (see above)
   * Can use npm modules

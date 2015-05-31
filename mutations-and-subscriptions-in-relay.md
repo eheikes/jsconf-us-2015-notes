@@ -13,6 +13,7 @@ Here a *mutation* means a user action that causes data to change.
 * Relay: data fetching & rendering together
 * GraphQL: data query language
   * JS-like object of properties and their hierarchy structure:
+
       ```javascript
       {
         id,
@@ -24,6 +25,7 @@ Here a *mutation* means a user action that causes data to change.
         }
       }
       ```
+
 * Relay composes queries, performs a fetch, and returns data to the renderer.
 * Mutations
   * Provide it with GraphQL with the type of mutation, any inputs, and a query for the desired after-update data
