@@ -33,7 +33,7 @@ This talk was given in Portuguese (with English translator) to demonstrate what 
     * Use good writing and appropriate reading level.
   * Robust
     * Compatible with all kinds of user agents
-* User agents <img src="https://i.imgur.com/7pOwI.jpg" alt="Funny cartoon used in his slides" width="350" style="float:right; margin:10px;">
+* User agents <img src="https://i.imgur.com/7pOwI.jpg" alt="Funny cartoon used in his slides" width="350" align="right">
   * Handicapped people often use screen readers (text-to-speech) such as JAWS, NVDA, VoiceOver, etc.
   * Screen reader usage on mobile phones has been rising -- currently at 82%
   * Use good HTML: correct `doctype`, a `lang` attribute, `meta` tags

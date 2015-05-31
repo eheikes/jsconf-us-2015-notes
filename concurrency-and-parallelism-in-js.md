@@ -1,6 +1,6 @@
 # "Concurrency & Parallelism in JS" by [Naveed Ihsanullah](https://twitter.com/naveedi)
 
-* Concurrency & parallelism <img src="https://pbs.twimg.com/media/CGCoz7hXIAA2kzb.jpg" alt="Analogy of difference between concurrency and parallelism" width="350" style="float:right; margin:10px">
+* Concurrency & parallelism <img src="https://pbs.twimg.com/media/CGCoz7hXIAA2kzb.jpg" alt="Analogy of difference between concurrency and parallelism" width="350" align="right">
   * Concurrency is having multiple tasks run together (multitasking)
   * Parallelism is actually executing tasks separately (in hardware)
 * Browser implementations of JS is fast and getting faster with asm.js etc

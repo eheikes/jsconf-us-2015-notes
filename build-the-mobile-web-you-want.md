@@ -1,7 +1,7 @@
 # "Build the Mobile Web You Want" by [Kate Hudson](https://twitter.com/k88hudson)
 
 * "The web is broken" -- mobile is becoming the first & dominant method people use
-  * Expected features: performant UI, seamless auth/security (typically email confirmations for the web), works with offline/intermittent network, device/OS integration (camera, push) <img src="http://image.slidesharecdn.com/k88hudsonjsconf-150527152747-lva1-app6892/95/build-the-mobile-web-you-want-6-638.jpg?cb=1432740600" alt="comparison between web and native of expected features" width="350" style="float:right; margin:10px">
+  * Expected features: performant UI, seamless auth/security (typically email confirmations for the web), works with offline/intermittent network, device/OS integration (camera, push) <img src="http://image.slidesharecdn.com/k88hudsonjsconf-150527152747-lva1-app6892/95/build-the-mobile-web-you-want-6-638.jpg?cb=1432740600" alt="comparison between web and native of expected features" width="350" align="right">
   * Web browsers are getting better, but native has the advantage. Concede defeat?
 * Remember that in 2004, making a JS/Ajax app was not a thing, and even criticized. Gmail was the killer app -- a "hack".
 * Proposal: "It is time to hack."
