@@ -17,7 +17,7 @@
 
 * [ES6 Training](es6-training.md) by John K Paul
 * [NemoJS: The natural nodejs automation solution](nemojs-the-natural-nodejs-automation-solution.md) by Matt Edelman
-* [Rewriting recipe search -- a dash of sugar, just a smidgen of graph database](rewriting-recipe-search.mod) by Tracy Hinds
+* [Rewriting recipe search -- a dash of sugar, just a smidgen of graph database](rewriting-recipe-search.md) by Tracy Hinds
 * [React Training](react-training.md) by Jeff Barczewski
 * [The Hybrid Backbone & React App](the-hybrid-backbone-and-react-app.md) by Peter Piekarczyk
 * [Tungsten.js: Virtual DOM & Server Rendering in a Legacy Codebase](tungsten-js-virtual-dom-and-server-rendering.md) by Andrew Rota
