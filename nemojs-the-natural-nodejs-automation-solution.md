@@ -3,7 +3,7 @@
 This talk introduced [Nemo](https://github.com/paypal/nemo), a way to do end-to-end testing.
 
 * Background
-  * Rransformation at PayPal from Java -> NodeJS
+  * Transformation at PayPal from Java -> NodeJS
   * Needed a way to automate testing
 * Nemo is a wrapper for [Selenium](http://www.seleniumhq.org/) / WebDriver
   * JSON config through [confit](https://github.com/krakenjs/confit)
