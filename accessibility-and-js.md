@@ -2,7 +2,7 @@
 
 This talk was given in Portuguese (with English translator) to demonstrate what it's like to access content through an intermediary.
 
-([slides](http://www.slideshare.net/FelipeAlbuquerque/accessibility-and-js-sidebyside))
+([video](https://www.youtube.com/watch?v=1CZZfDe8ocU), [slides](http://www.slideshare.net/FelipeAlbuquerque/accessibility-and-js-sidebyside))
 
 * Why is accessibility important?
   * 650 million people have some sort of disability.

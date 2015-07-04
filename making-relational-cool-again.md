@@ -2,6 +2,8 @@
 
 This talk was about using relational DBs in NodeJS, specifically the speaker's 2 libraries.
 
+([video](https://www.youtube.com/watch?v=19Av0Lxml-I))
+
 * There are similarities between SQL and JS.
   * Both are languages that will never die.
 * Rise of NoSQL & the hate against relational DBs

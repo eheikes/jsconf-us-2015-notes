@@ -2,6 +2,8 @@
 
 This talk was about writing CSS using JS. "This talk is about ideas, not code."
 
+([video](https://www.youtube.com/watch?v=Bt7-cx5AOQc))
+
 * Limitations of CSS
   * No constants or variables
   * No extensionability

@@ -2,6 +2,8 @@
 
 In this talk, Tracy walked through her process of building a recipe collection app and learning from it.
 
+([video](https://www.youtube.com/watch?v=IZONih1l4As))
+
 * Want a good digital recipe collection
   * Google does okay; not as good for discovery
   * Lots of website resources, but not all recipe data is readily available.

@@ -2,6 +2,8 @@
 
 This talk introduced [Nemo](https://github.com/paypal/nemo), a way to do end-to-end testing.
 
+([video](https://www.youtube.com/watch?v=1DoveeFXptY))
+
 * Background
   * Transformation at PayPal from Java -> NodeJS
   * Needed a way to automate testing

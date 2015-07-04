@@ -2,7 +2,7 @@
 
 This talk basically went through the speaker's process of creating 8-bit music on the NES, with sound demos thoughout.
 
-([code repo](https://github.com/emkay/nesly-sound))
+([video](https://www.youtube.com/watch?v=NiOW-swy2Ys), [code repo](https://github.com/emkay/nesly-sound))
 
 * Goal: make it easy to write music for NES
 * Project parts:
